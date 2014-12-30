@@ -1,0 +1,10 @@
+[package]
+
+name = "emitter"
+version = "0.0.1"
+authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
+repository = "https://github.com/reem/rust-emitter.git"
+description = "A synchronous event emitter for evented code."
+readme = "README.md"
+license = "MIT"
+
